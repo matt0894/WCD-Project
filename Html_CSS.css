@@ -19,11 +19,11 @@
 			a.btn:hover {background-color: rgba(255,0,0,.5);}
 			
 			/*header*/
-			header {height: 430px;background-image:url(Html_elements/CS_header.jpg);background-repeat: no repeat 0 0; background-size: contain;}
-			header a.logo { position: absolute; display: block; width: 180px; height: 66px;background-image:url(Html_elements/XYZ_Gamers_Paradise_Logo.jpg); top: 15px; left: 400px;}
+			header {height: 430px;background-image:url(CS_header.jpg);background-repeat: no repeat 0 0; background-size: contain;}
+			header a.logo { position: absolute; display: block; width: 180px; height: 66px;background-image:url(XYZ_Gamers_Paradise_Logo.jpg); top: 15px; left: 400px;}
 			header a.logo span{display: none;}
 			header h1 { position: absolute; display: block;top:360px; left:400px;}
-			body {height: 800px;background-image:url(Html_elements/Space.jpg);background-repeat:repeat-y;width:1520px;}
+			body {height: 800px;background-image:url(Space.jpg);background-repeat:repeat-y;width:1520px;}
 			
 			/*Section - all */
 			section {padding:0 30px;}
